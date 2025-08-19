@@ -24,6 +24,7 @@ This is a basic desktop-based product review application built with **Python** a
 ## 🎯 Purpose
 
 This project is a simple desktop application for managing and storing product reviews. It was created as part of my initial journey into learning Python programming and exploring how to integrate cloud databases like Firebase for real-time data handling.
+
 ---
 ## 📸 Screenshot
 
